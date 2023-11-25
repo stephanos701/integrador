@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">TestPI</string>
+    <string name="TEMPERATURA">TEMPERATURA</string>
+    <string name="LONGITUD">LONGITUD</string>
+    <string name="PESO">PESO</string>
+    <string name="DIVISA">DIVISA</string>
+    <string name="XConverter">X-Converter</string>
+    <string name="AplicacionesMóvilesI">Aplicaciones Móviles I</string>
+    <string name="CESDE">CESDE</string>
+    <string name="T2023">2023</string>
+    <string name="Calcular">Calcular</string>
+
+
+    <string-array name="Temperatura">
+        <item>Celsius -> Fahrenheit</item>
+        <item>Fahrenheit -> Celsius</item>
+        <item>Celsius -> Kelvin</item>
+        <item>Kelvin -> Celsius</item>
+        <item>Fahrenheit -> Kelvin</item>
+        <item>Kelvin -> Fahrenheit</item>
+
+    </string-array>
+    <string-array name="Longitud">
+        <item>Metros -> Pies</item>
+        <item>Pies -> Metros</item>
+        <item>Kilómetros -> Millas.</item>
+        <item>Millas -> Kilómetros</item>
+        <item>Centímetros -> Pulgadas.</item>
+        <item>Pulgadas -> Centímetros</item>
+        <item>Yardas -> Metros.</item>
+        <item>Metros -> Yardas</item>
+        <item>Millas Náuticas -> Kilómetros</item>
+        <item>Kilómetros -> Millas Náuticas</item>
+        <item>Micrómetros -> Milímetros.</item>
+        <item>Milímetros -> Micrómetros</item>
+        <item>Decímetros -> Metros.</item>
+        <item>Metros -> Decímetros</item>
+
+    </string-array>
+    <string-array name="Peso">
+        <item>Kilogramos -> Libras.</item>
+        <item>Libras -> Kilogramos</item>
+        <item>Gramos -> Libras.</item>
+        <item>Libras -> Gramos</item>
+        <item>Kilogramos -> Gramos.</item>
+        <item>Gramos -> Kilogramos</item>
+        <item>Toneladas -> Kilogramos.</item>
+        <item>Kilogramos -> Toneladas</item>
+        <item>Libras -> Onzas.</item>
+        <item>Onzas -> Libras</item>
+        <item>Gramos -> Onzas</item>
+        <item>Onzas -> Gramos</item>
+        <item>Toneladas -> Libras.</item>
+        <item>Libras -> Toneladas</item>
+        <item>Toneladas -> Gramos.</item>
+        <item>Gramos -> Toneladas</item>
+        <item>Toneladas -> Miligramos.</item>
+        <item>Miligramos -> Toneladas</item>
+        <item>Kilogramos -> Miligramos.</item>
+        <item>Miligramos -> Kilogramos</item>
+    </string-array>
+    <string-array name="Divisa">
+        <item>Dólar estadounidense -> Euro.</item>
+        <item>Euro -> Dólar estadounidense</item>
+        <item>Dólar estadounidense -> Peso colombiano.</item>
+        <item>Peso colombiano -> Dólar estadounidense</item>
+        <item>Euro -> Peso colombiano.</item>
+        <item>Peso colombiano -> Euro</item>
+    </string-array>
+
+</resources>
