@@ -12,19 +12,19 @@
 
 
     <string-array name="Temperatura">
-        <item>Celsius -> Fahrenheit</item>
-        <item>Fahrenheit -> Celsius</item>
-        <item>Celsius -> Kelvin</item>
-        <item>Kelvin -> Celsius</item>
-        <item>Fahrenheit -> Kelvin</item>
-        <item>Kelvin -> Fahrenheit</item>
+        <item>Celsius->Fahrenheit</item>
+        <item>Fahrenheit->Celsius</item>
+        <item>Celsius->Kelvin</item>
+        <item>Kelvin->Celsius</item>
+        <item>Fahrenheit->Kelvin</item>
+        <item>Kelvin->Fahrenheit</item>
 
     </string-array>
     <string-array name="Longitud">
-        <item>Metros -> Pies</item>
-        <item>Pies -> Metros</item>
-        <item>Kilómetros -> Millas.</item>
-        <item>Millas -> Kilómetros</item>
+        <item>Metros->Pies</item>
+        <item>Pies->Metros</item>
+        <item>Kilómetros->Millas.</item>
+        <item>Millas->Kilómetros</item>
         <item>Centímetros -> Pulgadas.</item>
         <item>Pulgadas -> Centímetros</item>
         <item>Yardas -> Metros.</item>
@@ -38,10 +38,10 @@
 
     </string-array>
     <string-array name="Peso">
-        <item>Kilogramos -> Libras.</item>
-        <item>Libras -> Kilogramos</item>
-        <item>Gramos -> Libras.</item>
-        <item>Libras -> Gramos</item>
+        <item>Kilogramos->Libras.</item>
+        <item>Libras->Kilogramos</item>
+        <item>Gramos->Libras.</item>
+        <item>Libras->Gramos</item>
         <item>Kilogramos -> Gramos.</item>
         <item>Gramos -> Kilogramos</item>
         <item>Toneladas -> Kilogramos.</item>
@@ -60,8 +60,8 @@
         <item>Miligramos -> Kilogramos</item>
     </string-array>
     <string-array name="Divisa">
-        <item>Dólar estadounidense -> Euro.</item>
-        <item>Euro -> Dólar estadounidense</item>
+        <item>Dólar estadounidense->Euro</item>
+        <item>Euro->Dólar estadounidense</item>
         <item>Dólar estadounidense -> Peso colombiano.</item>
         <item>Peso colombiano -> Dólar estadounidense</item>
         <item>Euro -> Peso colombiano.</item>
