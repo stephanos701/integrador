@@ -40,6 +40,22 @@ public class TemperaturaActivity extends AppCompatActivity {
                     Temperatura temperatura = new Temperatura("Fahrenheit", "Celsius");
                     resultadoTemperatura.setText(String.valueOf(temperatura.convertir(valor)));
                 }
+                if (paisSeleccionado.equals("Celsius->Kelvin")) {
+                    Temperatura temperatura = new Temperatura("Celsius", "Kelvin");
+                    resultadoTemperatura.setText(String.valueOf(temperatura.convertir(valor)));
+                }
+                if (paisSeleccionado.equals("Kelvin->Celsius")) {
+                    Temperatura temperatura = new Temperatura("Kelvin", "Celsius");
+                    resultadoTemperatura.setText(String.valueOf(temperatura.convertir(valor)));
+                }
+                if (paisSeleccionado.equals("Fahrenheit->Kelvin")) {
+                    Temperatura temperatura = new Temperatura("Fahrenheit", "Kelvin");
+                    resultadoTemperatura.setText(String.valueOf(temperatura.convertir(valor)));
+                }
+                if (paisSeleccionado.equals("Kelvin->Fahrenheit")) {
+                    Temperatura temperatura = new Temperatura("Kelvin", "Fahrenheit");
+                    resultadoTemperatura.setText(String.valueOf(temperatura.convertir(valor)));
+                }
             }
         });
     }
